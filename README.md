@@ -1,4 +1,6 @@
 This is 1 day project.<br>
+Simple UI and save system.
+
 Some free assets taken from Unity Asset Store were used in this project.
 
 List of used free assets
